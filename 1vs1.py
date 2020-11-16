@@ -1,5 +1,7 @@
 import random
 
+#test
+
 a_surv = {"infantry": 0, "artillery": 0, "tanks": 0, "fighters": 0, "bombers": 0}
 d_surv = {"infantry and artillery": 0, "tanks": 0, "fighters": 0, "bombers": 0, "AA guns": 0}
 #d_surv = dict()
